@@ -4,9 +4,9 @@
 
 Company: CODTECH IT SOLUTIONS
 
-Intern Name: KANDEPU DHANA LAKSHMI
+Intern Name: TALLAM HARIKA
 
-Intern ID: CITS2813
+Intern ID: CITS2799
 
 Domain: UI/UX Design
 
@@ -47,8 +47,4 @@ Clear and concise UI copy helps users understand actions quickly and improves ov
 ### Proof 2 – UI Copywriting Lab Report
 
 ![UI Copywriting Lab Report](proof1.png)
-
-### Proof 3 – GitHub Repository Upload
-
-![GitHub Repository Upload](proof2.png)
 
