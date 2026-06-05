@@ -44,7 +44,5 @@ Clear and concise UI copy helps users understand actions quickly and improves ov
 
 ![UI Copy Examples](ui-copy-example.png)
 
-### Proof 2 – UI Copywriting Lab Report
 
-![UI Copywriting Lab Report](proof1.png)
 
